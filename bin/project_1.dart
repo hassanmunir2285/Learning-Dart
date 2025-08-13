@@ -1,8 +1,9 @@
 import 'sunday_practice.dart';
 import 'Monday.dart';
-import 'tuesday .practice.dart';
+import 'Wednesday_Practice.dart';
 void main (){
-  tuesdayPractice();
+  wednesdayPractice();
+//
 // MondayPractice();
 //
 //   /*my first project is to write down my family members name
