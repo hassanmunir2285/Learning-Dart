@@ -1,6 +1,6 @@
 import 'dart:io';
 
-void wednesdayPractice(){
+void wednesdayPractice() {
   int i = 2;
   print(i);
 
@@ -9,9 +9,9 @@ void wednesdayPractice(){
   int totalNumber = 100;
   int mathNumber = 85;
 
-  if(mathNumber > 90 ) {
+  if (mathNumber > 90) {
     print('A+ grade');
-  } else if( mathNumber > 80 && mathNumber < 89){
+  } else if (mathNumber > 80 && mathNumber < 89) {
     print('B grade');
   }
 
@@ -23,6 +23,7 @@ void wednesdayPractice(){
   * if consumed unit are greater then 300 then per unit cost is 50.
    */
 
+  /*
   stdout.write('Enter consumed units :');
   int consumedUnits = int.parse(stdin.readLineSync()!);
 
@@ -51,7 +52,7 @@ void wednesdayPractice(){
     print('consumed units $consumedUnits');
     print('per unit cost is 50');
   }
-
+*/
 
   // Nested If-else
   //*********************************
@@ -83,8 +84,6 @@ void wednesdayPractice(){
     print("Invalid score!"); // Score is outside 0–100 range
   }
 
-
-
   // Ternary operator in Dart
   /*   In Dart, the ternary operator is made of two symbols:
             ?  :
@@ -93,8 +92,6 @@ void wednesdayPractice(){
 
    */
 
-
-
   // Example # 1
   //**********************************
 
@@ -102,7 +99,7 @@ void wednesdayPractice(){
 
   // Simple ternary operator to check voting eligibility
   String eligibility = (age >= 18)
-      ? "You are eligible to vote."   // True case
+      ? "You are eligible to vote." // True case
       : "You are NOT eligible to vote."; // False case
 
   print(eligibility);
@@ -124,14 +121,13 @@ void wednesdayPractice(){
 
   // Nested ternary operator for category based on age
   // Example # 1
-  String category = (age < 13)
-      ? "Child"                // If under 13
-      : (age < 18)
-      ? "Teenager"         // If between 13 and 17
-      : "Adult";           // If 18 or above
+  // String category = (age < 13)
+  //     ? "Child" // If under 13
+  //     : (age < 18)
+  //     ? "Teenager" // If between 13 and 17
+  //     : "Adult"; // If 18 or above
 
-  print("You are a $category.");
-
+  // print("You are a $category.");
 
   // Example # 2
   // Nested ternary: Positive, Negative, or Zero
@@ -139,8 +135,66 @@ void wednesdayPractice(){
       ? "Positive" // If greater than zero
       : (number < 0)
       ? "Negative" // If less than zero
-      : "Zero";    // If exactly zero
+      : "Zero"; // If exactly zero
 
   print("The number is $signType.");
-}
+  /*
+  stdout.write('Enter consumed units :');
+  int consumedUnits = int.parse(stdin.readLineSync()!);
 
+  int finalPrice = 0;
+  if ( consumedUnits < 100) {
+    finalPrice = consumedUnits * 20;
+    print('electricity bill is $finalPrice');
+    print('consumed units $consumedUnits');
+    print('per unit cost is 20');
+*/
+
+  //Ask the user for a username.
+  //
+  // If username matches "admin",
+  //
+  // Ask for a password.
+  //
+  // If password matches "1234", print "Login successful".
+  //
+  // Else print "Incorrect password".
+  //
+  // Else print "Unknown user".
+
+  // stdout.write("Enter username: ");
+  // String? username = stdin.readLineSync();
+  //
+  //
+
+  var num = 10; // i= ( number =10)
+  if (num > 0) { // ? "num > 0"
+    print('$num is positive'); //  :( num is positive)
+    if (num / 2 == 0) { // ? " num / 2 ==0"
+      print('$num is even '); // : ( num is even )
+    } else {
+      print('$num is odd');
+    }
+  } else {
+    if (num < 0) {
+      print('$num is negative');
+    } else {
+      print('$num is zero');
+    }
+  } // String category = (age < 13)
+  //     ? "Child" // If under 13
+  //     : (age < 18)
+  //     ? "Teenager" // If between 13 and 17
+  //     : "Adult"; // If 18 or above
+  if (mathNumber > 90) {
+    print('A+ grade');
+  } else if (mathNumber > 80 && mathNumber < 89) {
+    print('B grade');
+  }
+  String grade = (number > 90)
+
+  ? " A+ GRADE "
+      : ( num < 80)
+  ? " B grade":  " C grade";
+
+}
