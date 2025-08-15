@@ -1,6 +1,7 @@
 import 'dart:io';
 
 void wednesdayPractice() {
+
   int i = 2;
   print(i);
 
