@@ -3,9 +3,13 @@ import 'Monday.dart';
 import 'Wednesday_Practice.dart';
 import 'Thursday Practice.dart';
 import 'friidayPractice.dart';
+import 'saturdayPractice.dart';
+import 'sundayPractice.dart';
 void main (){
+  sundayPractice();
   // thurdayPractice();
-  friidayPractice();
+  // saturdayPractice();
+  // friidayPractice();
 //  wednesdayPractice();
 //
 // MondayPractice();
