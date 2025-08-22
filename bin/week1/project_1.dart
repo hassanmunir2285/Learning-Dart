@@ -1,17 +1,13 @@
-import 'sunday_practice.dart';
-import 'Monday.dart';
-import 'Wednesday_Practice.dart';
-import 'Thursday Practice.dart';
-import 'friidayPractice.dart';
-import 'saturdayPractice.dart';
-import 'sundayPractice.dart';
+
+import '../week2/tuesday .practice.dart';
+import '../week2/wednesdayPractice.dart';
+import '../week2/thursdayPractice.dart';
+import '../week2/fridayPractice.dart';
 void main (){
-  sundayPractice();
-  // thurdayPractice();
-  // saturdayPractice();
-  // friidayPractice();
-//  wednesdayPractice();
-//
+fridayPractice();
+  // thursdayPractice();
+  // wednesdayPractice();
+//  tuesdayPractice();
 // MondayPractice();
 //
 //   /*my first project is to write down my family members name
