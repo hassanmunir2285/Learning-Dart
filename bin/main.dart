@@ -1,10 +1,46 @@
 
-import '../week2/tuesday .practice.dart';
-import '../week2/wednesdayPractice.dart';
-import '../week2/thursdayPractice.dart';
-import '../week2/fridayPractice.dart';
+// import 'week2/fridayPractice.dart';
+// import 'week2/tuesday .practice.dart';
+// import 'week2/wednesdayPractice.dart';
+// import 'week2/thursdayPractice.dart';
+// import 'week2/saturdayPractice.dart';
+// import 'week2/sundayPractice.dart';
+import 'week3/tuesdayPractice.dart';
+import 'week3/wednesday3Practice.dart';
+
+void diamondPattern(int n) {
+  // top pyramid
+  for (int i = 1; i <= n; i++) {
+    String row = "";
+    for (int j = 1; j <= n - i; j++) {
+      row += " ";
+    }
+    for (int k = 1; k <= (2 * i - 1); k++) {
+      row += "*";
+    }
+    print(row);
+  }
+  // bottom inverted pyramid
+  for (int i = n - 1; i >= 1; i--) {
+    String row = "";
+    for (int j = 1; j <= n - i; j++) {
+      row += " ";
+    }
+    for (int k = 1; k <= (2 * i - 1); k++) {
+      row += "*";
+    }
+    print(row);
+  }
+}
 void main (){
-fridayPractice();
+   wednesday3Practice();
+  // tuesdayPractice();
+// fridayPractice();
+// sundayPractice();
+// saturdayPractice();
+// diamondPattern(5);
+
+// week2Saturday();
   // thursdayPractice();
   // wednesdayPractice();
 //  tuesdayPractice();
