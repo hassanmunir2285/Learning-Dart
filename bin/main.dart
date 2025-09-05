@@ -5,8 +5,17 @@
 // import 'week2/thursdayPractice.dart';
 // import 'week2/saturdayPractice.dart';
 // import 'week2/sundayPractice.dart';
-import 'week3/tuesdayPractice.dart';
+import 'week2/tuesday .practice.dart';
+import 'week3/sunday3Practice.dart';
 import 'week3/wednesday3Practice.dart';
+import 'week3/friday3Practice.dart';
+import 'week4/friday4Practice.dart';
+import 'week4/monday4Practice.dart';
+import 'week4/test_class_practice.dart';
+import 'week4/thursday4Practice.dart';
+import 'week4/tuesday4Practice.dart';
+import 'week4/wednesday4Practice.dart';
+
 
 void diamondPattern(int n) {
   // top pyramid
@@ -33,7 +42,15 @@ void diamondPattern(int n) {
   }
 }
 void main (){
-   wednesday3Practice();
+  friday4Practice();
+  // thursday4Practice();
+  // wednesday4Practice();
+  // testPractice();
+  // tuesday4Practice();
+  // monday4Practice();
+  // sunday3Practice();
+   // wednesday3Practice();
+   // friday3Practice();
   // tuesdayPractice();
 // fridayPractice();
 // sundayPractice();

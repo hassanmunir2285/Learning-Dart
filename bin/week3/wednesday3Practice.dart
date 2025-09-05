@@ -146,7 +146,7 @@ class Duck with Fly, Swim {
 //  **** Interface (Multiple Inheritance & Multiple Parents)**** //
 class Printer {
   // Parent class 1
-  void printData() {}
+  void printData(){}
 }
 
 class Scanner {

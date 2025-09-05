@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32fdf248-48f4-4490-8137-336fff961a93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deviceManager.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/week4/class_practice.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/week4/friday4Practice.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/week4/thursday4Practice.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/week4/tuesday4Practice.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/week4/wednesday4Practice.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/week1/project_1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/week2/fridayPractice.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/week2/fridayPractice.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/week3/wednesday3Practice.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/week3/wednesday3Practice.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,12 +58,13 @@
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/StudioProjects/project_1&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;dart.settings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\StudioProjects\project_1\bin\week4" />
       <recent name="C:\Users\HP\StudioProjects\project_1\bin\week3" />
       <recent name="C:\Users\HP\StudioProjects\project_1\bin\week2" />
       <recent name="C:\Users\HP\StudioProjects\project_1\bin" />
