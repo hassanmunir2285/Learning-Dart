@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32fdf248-48f4-4490-8137-336fff961a93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bin/week4/class_practice.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/week4/friday4Practice.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/week4/thursday4Practice.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/week4/tuesday4Practice.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/week4/wednesday4Practice.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/week3/wednesday3Practice.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/week3/wednesday3Practice.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +71,9 @@
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+  </component>
+  <component name="SwiftWorkspaceSettings">
+    <option name="detectedToolchain" value="true" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
